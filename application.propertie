@@ -1,1 +1,1 @@
-dypatil.provider.url=http://localhost:8081/provider-service/getAllcourse
+dypatil.provider.getAllcourse.url=http://localhost:8081/provider-service/getAllcourse
